@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Syne;
+    src: url("../fonts/Syne-Bold.ttf") format("truetype"),
+         url("../fonts/Syne-Bold.woff") format("woff"),
+         url("../fonts/Syne-Bold.woff2") format("woff2");
+    font-weight: bold;
+}
+@font-face {
+    font-family: Syne;
+    src: url("../fonts/Syne-SemiBold.ttf") format("truetype"),
+         url("../fonts/Syne-SemiBold.woff") format("woff"),
+         url("../fonts/Syne-SemiBold.woff2") format("woff2");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "SpaceGrotesk";
+    src: url("../fonts/SpaceGrotesk-Regular.ttf") format("truetype"),
+         url("../fonts/SpaceGrotesk-Regular.woff") format("woff"),
+         url("../fonts/SpaceGrotesk-Regular.woff2") format("woff2");
+    font-weight: normal;     
+}
+@font-face {
+    font-family: "SpaceGrotesk";
+    src: url("../fonts/SpaceGrotesk-Bold.ttf") format("truetype"),
+         url("../fonts/SpaceGrotesk-Bold.woff") format("woff"),
+         url("../fonts/SpaceGrotesk-Bold.woff2") format("woff2");
+    font-weight: bold;     
+}
+@font-face {
+    font-family: "SpaceGrotesk";
+    src: url("../fonts/SpaceGrotesk-Medium.ttf") format("truetype"),
+         url("../fonts/SpaceGrotesk-Medium.ttf") format("woff"),
+         url("../fonts/SpaceGrotesk-Medium.ttf") format("woff2");
+    font-weight: 500;     
+}
